@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Notebook-CRUD-API/static/css/main.d7853e7f.chunk.css",
+    "main.js": "/Notebook-CRUD-API/static/js/main.cbc40876.chunk.js",
+    "main.js.map": "/Notebook-CRUD-API/static/js/main.cbc40876.chunk.js.map",
+    "runtime-main.js": "/Notebook-CRUD-API/static/js/runtime-main.1a27177a.js",
+    "runtime-main.js.map": "/Notebook-CRUD-API/static/js/runtime-main.1a27177a.js.map",
+    "static/js/2.158d82f4.chunk.js": "/Notebook-CRUD-API/static/js/2.158d82f4.chunk.js",
+    "static/js/2.158d82f4.chunk.js.map": "/Notebook-CRUD-API/static/js/2.158d82f4.chunk.js.map",
+    "static/js/3.ed5d2d9a.chunk.js": "/Notebook-CRUD-API/static/js/3.ed5d2d9a.chunk.js",
+    "static/js/3.ed5d2d9a.chunk.js.map": "/Notebook-CRUD-API/static/js/3.ed5d2d9a.chunk.js.map",
+    "index.html": "/Notebook-CRUD-API/index.html",
+    "static/css/main.d7853e7f.chunk.css.map": "/Notebook-CRUD-API/static/css/main.d7853e7f.chunk.css.map",
+    "static/js/2.158d82f4.chunk.js.LICENSE.txt": "/Notebook-CRUD-API/static/js/2.158d82f4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1a27177a.js",
+    "static/js/2.158d82f4.chunk.js",
+    "static/css/main.d7853e7f.chunk.css",
+    "static/js/main.cbc40876.chunk.js"
+  ]
+}
