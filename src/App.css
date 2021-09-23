@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+
+#updateBtn{
+
+  margin: 10px;
+}
+
+#cardBlue{
+  background-color:aliceblue;
+
+
+}
